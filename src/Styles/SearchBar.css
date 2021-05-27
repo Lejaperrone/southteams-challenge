@@ -1,0 +1,14 @@
+.BorderRightRounded {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  border-bottom-left-radius: 0px !important;
+  border-top-left-radius: 0px !important;
+  border-color: #ced4da;
+}
+
+.BorderLeftRounded {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}

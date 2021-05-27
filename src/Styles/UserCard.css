@@ -1,0 +1,21 @@
+.Icon {
+  color: white !important;
+}
+.Header {
+  background-color: #416dff !important;
+  padding-bottom: 3.5rem !important;
+}
+
+.FormInput {
+  background-color: inherit !important;
+  font: inherit !important;
+  color: inherit !important;
+}
+
+.Image {
+  border-style: solid;
+}
+
+.Body {
+  padding-top: 6rem !important;
+}
